@@ -1,0 +1,17 @@
+{
+  "name": "@danij91/pkgregistryexam",
+  "version": "1.0.0",
+  "description": "pkgregistryexam",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danij91/pkgregistryexam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+}
